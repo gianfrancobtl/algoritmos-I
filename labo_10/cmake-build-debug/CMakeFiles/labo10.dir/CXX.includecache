@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gianbattolla/Documents/Año 2020 - Cs. de la computación/Algoritmos y Estructuras de Datos 1/Laboratorio 10 - Trabajo con Strings y ejercicios de Challenge-20201114/template_alumnos/src/ejercicios.cpp
+ejercicios.h
+/Users/gianbattolla/Documents/Año 2020 - Cs. de la computación/Algoritmos y Estructuras de Datos 1/Laboratorio 10 - Trabajo con Strings y ejercicios de Challenge-20201114/template_alumnos/src/ejercicios.h
+
+/Users/gianbattolla/Documents/Año 2020 - Cs. de la computación/Algoritmos y Estructuras de Datos 1/Laboratorio 10 - Trabajo con Strings y ejercicios de Challenge-20201114/template_alumnos/src/ejercicios.h
+string
+-
+vector
+-
+
